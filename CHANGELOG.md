@@ -5,7 +5,7 @@
   when you type a short class name, it is converted into a full class
   name with this prefix. Now, this is configurable #173 thanks to @upyx
 
-* Added an option to to `make:enity` to make your class automatically
+* Added an option to to `make:entity` to make your class automatically
   an ApiPlatform resource. Pass `--api-resource` #178 thanks to @dunglas
 
 * Fixed `make:entity` when your class uses traits or a mapped
